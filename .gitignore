@@ -1,0 +1,26 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Arquivos de thumbnail
+._*
+
+# Spotlight e outros arquivos de sistema
+.Spotlight-V100
+.Trashes
+.VolumeIcon.icns
+.fseventsd
+.com.apple.timemachine.donotpresent
+.apdisk
+
+# Arquivos temporários
+*.swp
+*.swo
+*.tmp
+
+# VSCode
+.vscode/
+
+# Xcode
+*.xcuserdata*
